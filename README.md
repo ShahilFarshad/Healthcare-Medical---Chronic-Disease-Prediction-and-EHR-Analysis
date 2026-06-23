@@ -27,7 +27,7 @@ The project includes data cleaning, exploratory data analysis (EDA), feature eng
 <h2>📸 Dashboard Preview</h2>
 
 <p align="center">
-<img src="Images/Stroke Risk Analysis Dashboard" alt="Healthcare Dashboard" width="100%">
+<img src="Images/Stroke Risk Analysis Dashboard.png" alt="Healthcare Dashboard" width="100%">
 </p>
 
 <hr>
